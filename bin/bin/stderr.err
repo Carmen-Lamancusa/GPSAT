@@ -1,0 +1,11 @@
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+geos               0000000000B011DC  Unknown               Unknown  Unknown
+geos               00000000004D4B50  Unknown               Unknown  Unknown
+geos               0000000000AD343B  Unknown               Unknown  Unknown
+geos               0000000000AD4AB4  Unknown               Unknown  Unknown
+geos               00000000006CDC7A  Unknown               Unknown  Unknown
+geos               0000000000711049  Unknown               Unknown  Unknown
+geos               00000000004112EC  Unknown               Unknown  Unknown
+libc.so.6          000000336761ECDD  Unknown               Unknown  Unknown
+geos               00000000004111E9  Unknown               Unknown  Unknown

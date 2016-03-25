@@ -1,0 +1,56 @@
+*************   S T A R T I N G   2 x 2.5   G E O S--C H E M   *************
+Created w/ LINUX/IFORT compiler
+Use ifort -V to print version information
+Using GMAO GEOS-5 met fields
+
+===> SIMULATION START TIME: 2014/04/08 15:10 <===
+
+===============================================================================
+G E O S - C H E M   U S E R   I N P U T
+
+READ_INPUT_FILE: Reading input.geos
+===============================================================================
+GEOS-CHEM I/O ERROR    29 in file unit    11
+Encountered at routine:location read_input_file:1
+
+Error   29: File not found
+===============================================================================
+     - CLEANUP: deallocating arrays now...
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@cn100>
+Subject: Job 474275: <./geos> Exited
+
+Job <./geos> was submitted from host <cn65> by user <cal13012> in cluster <cluster1>.
+Job was executed on host(s) <cn100>, in queue <sandy_bridge>, as user <cal13012> in cluster <cluster1>.
+</home/cal13012> was used as the home directory.
+</home/cal13012/GEOS_Chem/GEOS-Chem.v9-02/bin> was used as the working directory.
+Started at Tue Apr  8 15:10:34 2014
+Results reported at Tue Apr  8 15:10:36 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./geos
+------------------------------------------------------------
+
+Exited with exit code 174.
+
+Resource usage summary:
+
+    CPU time   :      0.43 sec.
+    Max Memory :         1 MB
+    Max Swap   :        32 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <stderr.err> for stderr output of this job.
+
